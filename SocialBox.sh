@@ -1,4 +1,4 @@
-#!/bin/bash
+1#!/bin/bash
 #Colors
 white="\033[1;37m"
 grey="\033[0;37m"
